@@ -100,4 +100,3 @@ for epoch in range(training_epochs):
 print("Total cost: "+str(autoencoder.clac_total_cost(X_test)))
 
 
-
