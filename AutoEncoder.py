@@ -3,7 +3,8 @@ import sklearn.preprocessing as prep
 import tensorflow as tf
 from tensorflow.examples.tutorials.mnist import input_data
 import os
-#os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+
 
 #xavier initialization(variable initialization function used in autoencoder)
 def xavier_init(fan_in,fan_out,constant=1):
