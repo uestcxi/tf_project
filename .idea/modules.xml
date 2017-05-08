@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$USER_HOME$/Yang/caffe/.idea/caffe.iml" filepath="$USER_HOME$/Yang/caffe/.idea/caffe.iml" />
+      <module fileurl="file://$USER_HOME$/Yang/caffe2-study/.idea/caffe2-study.iml" filepath="$USER_HOME$/Yang/caffe2-study/.idea/caffe2-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tf_project.iml" filepath="$PROJECT_DIR$/.idea/tf_project.iml" />
     </modules>
   </component>
